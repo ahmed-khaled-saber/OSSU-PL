@@ -1,14 +1,12 @@
 # Programming-Languages
 
-### Winter'23
+### FALL 2024
 
-Source Code Versions is merely layers of daily work.<br>
-Commits Tracking is not useful. 
+Source Code History is merely layers of daily work.<br>
 
 
 Programming language philosophy <br>
 An offshoot of a University of Michigan course, it attempts to decompose programming languages into their basic elements
----
 
 <b> Ideas </b> :-
 
@@ -73,12 +71,4 @@ Subtyping
 Subtyping vs. parametric polymorphism; bounded polymorphism
 
 ---
-
-فلسفة لغات البرمجة
-منبثقة من دورة جامعة ميشيغان قسم الهندسة وعلوم الحاسب <br>
-نحاول فيه التعريج علي الأفكار الأساسية التي تنطوي عليها جوهر أي لغة برمجة<br>
-
-المفاهيم الأساسية و فلك الأفكار<br> 
-لغة البرمجة يجب ان توفر أبجدية منها ينسج أي نظام معقد في عالمنا البشري
-لو هي كذلك فما تري مدي تعقيد هذىة الأبجدية؟
 
